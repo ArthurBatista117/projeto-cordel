@@ -54,10 +54,7 @@ div#container1{
     margin-top: 100px;
     margin-bottom: 100px;
     width: 100%;
-    background-color: black;
-    background-image: url("../pacoted012/imagens/background001.jpg");
-    background-attachment: fixed;
-    background-position: right center;
+    background: black url("../pacoted012/imagens/background001.jpg") no-repeat fixed right center;
     height: 98vh;
 }
 
@@ -74,10 +71,7 @@ div#container2{
     margin-top: 100px;
     margin-bottom: 100px;
     width: 100%;
-    background-color: black;
-    background-image: url("../pacoted012/imagens/background002.jpg");
-    background-attachment: fixed;
-    background-position: right center;
+    background: black url("../pacoted012/imagens/background002.jpg") no-repeat fixed right center;
     height: 98vh;
 }
 
