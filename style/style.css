@@ -57,12 +57,13 @@ div#container1{
     margin-top: 100px;
     margin-bottom: 100px;
     width: 100%;
-    background: black url("../pacoted012/imagens/background001.jpg") no-repeat fixed center center / cover;
+    background: black url("../pacoted012/imagens/background001.jpg") no-repeat fixed right center / cover;
     height: 98vh;
 }
 
 p.conteudo{
     position: absolute;
+    text-shadow: 1px 1px 0px black;
     background-color: rgba(0, 0, 0, 0.29);
     color: aliceblue;
     top: 20%;
