@@ -23,6 +23,7 @@ header{
 }
 header h1{
     font-size: 3.8em;
+    font-variant: small-caps;
 }
 header p{
     font-family: Arial, Helvetica, sans-serif;
