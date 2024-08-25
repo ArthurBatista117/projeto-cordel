@@ -55,7 +55,7 @@ div#container1{
     margin-bottom: 100px;
     width: 100%;
     background-color: black;
-    background-image: url("pacoted012/imagens/background001.jpg");
+    background-image: url("../pacoted012/imagens/background001.jpg");
     background-attachment: fixed;
     background-position: right center;
     height: 98vh;
@@ -75,7 +75,7 @@ div#container2{
     margin-bottom: 100px;
     width: 100%;
     background-color: black;
-    background-image: url("pacoted012/imagens/background002.jpg");
+    background-image: url("../pacoted012/imagens/background002.jpg");
     background-attachment: fixed;
     background-position: right center;
     height: 98vh;
