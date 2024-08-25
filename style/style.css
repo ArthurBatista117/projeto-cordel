@@ -4,6 +4,8 @@
 
 :root{
     --cor-do-rodape: #022601;
+    --font_padrao: "Sriracha";
+    --font_tit: "Passion One"
 }
 
 *{
@@ -18,7 +20,7 @@ header{
     margin-bottom: 80px;
     color: aliceblue;
     text-align: center;
-    font-family: "Passion One";
+    font-family: var(--font_tit);
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.418);
 }
 header h1{
@@ -32,14 +34,14 @@ header a{
     color: aliceblue;
     font-size: 1.2em;
     text-decoration: none;
-    font-family: "Sriracha";
+    font-family: var(--font_padrao);
 }
 header a:hover{
     text-decoration: underline;
 }
 
 main{
-    font-family: "Sriracha";
+    font-family: var(--font_padrao);
     font-size: 2em;
 }
 main p{
